@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">WeatherChallenge</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="network_connection_error">Internet connection lost, please retry again</string>
+    <string name="network_default_error">Something wrong happened, please retry again</string>
+    <string name="server_connection_error">Not able to connect, please retry again</string>
+    <string name="network_internal_error">Our systems got an error, please retry again</string>
+    <string name="network_server_not_available">Our services are under maintenance, please retry after some time
+    </string>
+    <string name="permission_denied">Permission Denied</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="view_forecast">View Forecast</string>
+    <string name="city_name">New York</string>
+    <string name="details">Details</string>
+    <string name="feels_like">Feels like</string>
+    <string name="wind">Wind speed</string>
+    <string name="humidity">Humidity</string>
+    <string name="humidity_percent">%1$d %%</string>
+    <string name="pressure">Atmospheric pressure</string>
+    <string name="pressure_hPa">%1$d hPa</string>
+    <string name="wind_speed_mps">%1$s mps</string>
+    <string name="temp_degree">%1$d&#xb0;F</string>
+    <string name="enable_gps">Please enable your gps</string>
+    <string name="permission_request">App requires location permission</string>
+</resources>
