@@ -24,7 +24,7 @@ Providing user the option for selecting location.
 Providing user the option for switching the metric for temperature and other fields.
 Images for location, day/night, wind and other fields.
 
-`<p align="center">
+<p align="center">
   <img src="https://user-images.githubusercontent.com/24234056/133220823-36209953-4414-4915-8758-86a7648569a1.jpg" width="350">
   <img src="https://user-images.githubusercontent.com/24234056/133220828-d62e4a7e-a79c-488a-b144-a15d1c3acb4c.jpg" width="350">
   <img src="https://user-images.githubusercontent.com/24234056/133220830-e1f88e76-a281-48d9-8e7f-e43ab283649a.jpg" width="350">
